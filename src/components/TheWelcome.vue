@@ -3,8 +3,7 @@
 
 <template>
   <div class="intro">
-    <p>Bruce is my best friend. Explore the different years of his life here.</p>
-    
+    <p>Bruce is my best friend. Explore the different years of his life here.</p>  
   </div>
 </template>
 
