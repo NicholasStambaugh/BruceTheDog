@@ -1,6 +1,6 @@
 # bruce-dog
 
-This template should help get you started developing with Vue 3 in Vite.
+Website for my dog Bruce.
 
 ## Recommended IDE Setup
 
