@@ -1,19 +1,10 @@
 <script setup lang="ts">
-import { RouterLink } from 'vue-router'
 </script>
 
 <template>
   <div class="intro">
-    <h1>Throughout the years...</h1>
     <p>Bruce is my best friend. Explore the different years of his life here.</p>
-  </div>
-
-  <div class="timeline">
-    <RouterLink class="timeline-link" to="/timeline/2019">2019 - College Living.</RouterLink>
-    <RouterLink class="timeline-link" to="/timeline/2020">2020 - Back to Grand Rapids.</RouterLink>
-    <RouterLink class="timeline-link" to="/timeline/2021">2021 - Not a puppy anymore!</RouterLink>
-    <RouterLink class="timeline-link" to="/timeline/2022">2022 - Condo with Milo.</RouterLink>
-    <RouterLink class="timeline-link" to="/timeline/2023">2023 - New apartment, big city!</RouterLink>
+    
   </div>
 </template>
 

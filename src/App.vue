@@ -6,11 +6,15 @@ import HelloWorld from './components/HelloWorld.vue'
 <template>
   <header>
     <div class="wrapper">
-      <HelloWorld msg="" />
-
+      <HelloWorld/>
       <nav>
         <RouterLink class="nav-link" to="/">Home</RouterLink>
         <RouterLink class="nav-link" to="/about">About</RouterLink>
+        <RouterLink class="nav-link" to="/twenty-three">2023</RouterLink>
+        <RouterLink class="nav-link" to="/twenty-two">2022</RouterLink>
+        <RouterLink class="nav-link" to="/twenty-one">2021</RouterLink>
+        <RouterLink class="nav-link" to="/twenty-twenty">2020</RouterLink>
+        <RouterLink class="nav-link" to="/twenty-nineteen">2019</RouterLink>
       </nav>
     </div>
   </header>
