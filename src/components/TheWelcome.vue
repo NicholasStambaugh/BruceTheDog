@@ -12,8 +12,8 @@ import { RouterLink } from 'vue-router'
     <RouterLink class="timeline-link" to="/timeline/2019">2019 - College Living.</RouterLink>
     <RouterLink class="timeline-link" to="/timeline/2020">2020 - Back to Grand Rapids.</RouterLink>
     <RouterLink class="timeline-link" to="/timeline/2021">2021 - Not a puppy anymore!</RouterLink>
-    <RouterLink class="timeline-link" to="/timeline/2022">2022 - Bruce learned to high-five.</RouterLink>
-    <RouterLink class="timeline-link" to="/timeline/2023">2023 - New apartment, big city dog!</RouterLink>
+    <RouterLink class="timeline-link" to="/timeline/2022">2022 - Condo with Milo.</RouterLink>
+    <RouterLink class="timeline-link" to="/timeline/2023">2023 - New apartment, big city!</RouterLink>
   </div>
 </template>
 
